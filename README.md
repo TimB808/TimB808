@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tim</h1>
 <h3 align="center">Junior data scientist with project management/international development background</h3>
 
-- 🔭 I’m currently working on [Pot Luck](potluck.solutions)
+- 🔭 I’m currently working on [Pot Luck](https://www.potluck.solutions/), a website that lets you search recipes using the ingredients you have to hand
 
 - 🌱 I’m currently learning **Data visualisation skills, MIT Intro to Deep Learning**
 
