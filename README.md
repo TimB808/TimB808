@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tim</h1>
 <h3 align="center">Junior data scientist with project management/international development background</h3>
 
-- 🔭 I’m currently working on [Pot Luck](https://www.potluck.solutions/), a website that lets you search recipes using the ingredients you have to hand
+- I have a strong foundation in data manipulation, analysis, and visualization, gained through an intensive bootcamp and hands-on project experience. Leveraging problem-solving, critical thinking and interpersonal/communication skills honed over 7 years in international development, consulting and government, I'm eager to join a new team where I can continue to develop my coding skills.
 
-- 🌱 I’m currently learning **Data visualisation skills, MIT Intro to Deep Learning**
+- 🔭 I’m currently working on [Career Compass](https://github.com/TimB808/job_scraping/), a tool using web scraping, NLP and K-means clustering to allow individuals to explore career options tailored to their needs.
+
+- 🌱 I’m currently learning **University of Illinois' Cloud Computing Concepts course, DeepLearning.AI's Generative AI with Large Language Models course, DBT**
 
 - 💬 Ask me about **International development**
 
