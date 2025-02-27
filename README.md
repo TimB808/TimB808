@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tim</h1>
-<h3 align="center">Junior data scientist with project management/international development background</h3>
+<h3 align="center">Data Analyst with project management/international development background</h3>
 
 - I have a strong foundation in data manipulation, analysis, and visualization, gained through an intensive bootcamp and hands-on project experience. Leveraging problem-solving, critical thinking and interpersonal/communication skills honed over 7 years in international development, consulting and government, I'm eager to join a new team where I can continue to develop my coding skills.
 
