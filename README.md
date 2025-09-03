@@ -1,11 +1,22 @@
 <h1 align="center">Hi 👋, I'm Tim</h1>
-<h3 align="center">Data Analyst with project management/international development background</h3>
+<h3 align="center">Data Analysis | Project Management | International development/government background</h3>
 
 - I have a strong foundation in data manipulation, analysis, and visualization, gained through an intensive bootcamp and hands-on project experience. Leveraging problem-solving, critical thinking and interpersonal/communication skills honed over 7 years in international development, consulting and government, I'm eager to join a new team where I can continue to develop my coding skills.
 
-- 🔭 I’m currently working on [Career Compass](https://github.com/TimB808/job_scraping/), a tool using web scraping, NLP and K-means clustering to allow individuals to explore career options tailored to their needs.
+- 🔭 I’m currently working on...
 
-- 🌱 I’m currently learning **University of Illinois' Cloud Computing Concepts course, DeepLearning.AI's Generative AI with Large Language Models course, DBT**
+  
+  - [Climate Resilience Pipeline](https://github.com/TimB808/climate-resilience-pipeline/), a Python-based pipeline using xarray, pandas, Dask, and a geospatial stack (geopandas, shapely, regionmask) to transform ERA5 climate and World Bank/OWID socioeconomic data into tidy country-year metrics, stored in Parquet and published via Tableau dashboards. I'm visualising the outputs on my [Tableau Public profile](http://public.tableau.com/app/profile/tim.beyer6061/) (WIP).
+
+    
+  - [Doc-Chat-API](https://github.com/TimB808/doc-chat-api/), a full-stack chatbot app that lets users upload PDFs and ask questions about the content. It combines a FastAPI backend with LanceDB for vector search, OpenAI embeddings for semantic understanding, and a Streamlit UI for interactive querying. Currently deployed [here](https://doc-chat-ui-581282400880.europe-west3.run.app/) through Google Cloud run; next, I plan to add user authentication, support for managing multiple documents per user, and the ability to hold multi-turn conversations grounded in document context — and ultimately a secure, personalised document assistant.
+
+    
+  - Learning to use Tableau - I'm developing my Tableau Public profile [here](http://public.tableau.com/app/profile/tim.beyer6061/).
+
+
+  
+- 🌐 Portfolio: [timbeyer.tech](https://timbeyer.tech) | GitHub repo where I built it [here](https://github.com/TimB808/astro-portfolio).
 
 - 💬 Ask me about **International development**
 
